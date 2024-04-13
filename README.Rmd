@@ -1,0 +1,1 @@
+This project aims to characterize the microbiome in *Montipora capitata* corals that were either dosed with high levels of nutrients, or kept in ambient conditions. The experiment was conducted by Tanya Brown at HIMB in Kaneohe Bay, Oahu. 
